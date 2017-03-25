@@ -1,5 +1,13 @@
 #!/usr/bin/env python
 import math
+
+__author__ = "Pablo Marchant"
+__credits__ = ["Pablo Marchant", "Fabian Schneider"]
+__license__ = "GPL"
+__version__ = "3.0"
+__maintainer__ = "Pablo Marchant"
+__email__ = "pamarca@gmail.com"
+
 """Define multiple constants. Much of this taken directly from MESA.
 
 This module simply defines a multitude of constants for general use.
