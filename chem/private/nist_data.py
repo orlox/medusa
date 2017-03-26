@@ -30,7 +30,7 @@ def read_nist_data(nist_data_filename):
     isotope_data = {}
 
     if not os.path.isfile(nist_data_filename):
-        sys.exit("nist_data.py: Missing data file "+nist_data_filename)
+        sys.exit("nist_data.py: Missing data file "+nist_data_filename+" in read_nist_data")
 
     with open(nist_data_filename, 'r') as nist_file:
 
