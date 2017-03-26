@@ -1,1 +1,1 @@
-__all__ = ["chem_lib"]
+__all__ = ["chem_lib", "private"]
